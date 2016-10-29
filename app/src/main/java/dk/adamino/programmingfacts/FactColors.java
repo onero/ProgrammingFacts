@@ -20,7 +20,8 @@ public class FactColors {
             "#637a91", // dark gray
             "#f092b0", // pink
             "#b7c0c7",  // light gray
-            "#ddca8b" // gold
+            "#ddca8b", // gold
+            "8b4513" // bronze
     };
 
     public int getColor() {
